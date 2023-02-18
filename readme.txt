@@ -10,6 +10,5 @@ Mô tả phần mềm<Game Snake>:
 	điểm của mình. Màn chơi sẽ kết thúc khi người chơi điều khiển rắn va vào bản thân. Lúc này cửa sổ sẽ hiện lên điểm số của
 	bản thân.
 	+ Multi player: Chơi multiplayer, tối đa 2 người chơi
-	+ Option: Cho phép người chơi chỉnh sửa nút di chuyển của con rắn bằng cách click vào button nút muốn thay đổi và nhập 1 nút mình muốn từ bàn phím
 	+ HighScore: Cho phép người chơi xem bảng xếp hạng điểm của server
 	+ Exit: tắt cửa sổ game
